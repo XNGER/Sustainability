@@ -1,8 +1,8 @@
-﻿using Calculation.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using modal_popup_crud.Models;
 using System.Diagnostics;
 
-namespace Calculation.Controllers
+namespace modal_popup_crud.Controllers
 {
     public class HomeController : Controller
     {
